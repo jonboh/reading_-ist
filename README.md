@@ -12,3 +12,8 @@ Saturday, December 5, 1992:
 http://kskedlaya.org/putnam-archive/1992.pdf
 
 --
+
+Which machine learning algorithm should I use?
+https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
+
+--
