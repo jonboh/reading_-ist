@@ -1,5 +1,9 @@
 # reading_-ist
 
+Eigenvalues-Eigenvectors:
+http://setosa.io/ev/eigenvectors-and-eigenvalues/
+
+
 Formal Solution to the 3Blue1Brown Problem:
 
 http://lsusmath.rickmabry.org/psisson/putnam/putnam-web.htm
