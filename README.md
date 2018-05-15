@@ -1,6 +1,11 @@
 # reading_-ist
 
+Bash: 
+
+https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
+
 Eigenvalues-Eigenvectors:
+
 http://setosa.io/ev/eigenvectors-and-eigenvalues/
 
 
