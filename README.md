@@ -1,5 +1,10 @@
 # reading_-ist
 
+github pages:
+
+http://jmcglone.com/guides/github-pages/
+
+
 VIM Tutorial:
 
 http://vim.wikia.com/wiki/Tutorial
