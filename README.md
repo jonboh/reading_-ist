@@ -1,5 +1,10 @@
 # reading_-ist
 
+VIM Tutorial:
+
+http://vim.wikia.com/wiki/Tutorial
+
+
 SPARQL | Wikidata:
 
 https://longair.net/blog/2017/11/29/sparql-wikidata/
