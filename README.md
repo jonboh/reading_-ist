@@ -36,5 +36,8 @@ https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-al
 
 
 NON Technical:
+
+
 1989 - The year the world changed:
+
 http://www.niallferguson.com/journalism/history/the-year-the-world-really-changed
