@@ -38,6 +38,10 @@ https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-al
 NON Technical:
 
 
-1989 - The year the world changed:
+Ferguson: 1989 - The year the world changed:
 
 http://www.niallferguson.com/journalism/history/the-year-the-world-really-changed
+
+
+Kotkin:
+https://www.nytimes.com/2017/06/10/opinion/sunday/is-putin-getting-what-he-wanted-with-trump.html?smid=tw-share
